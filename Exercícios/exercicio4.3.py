@@ -1,3 +1,4 @@
+#Escreva um programa que leia três números e que imprima o maior e o menor.
 num1 = int(input('Digite o primeiro valor: '))
 num2 = int(input('Digite o segundo valor: '))
 num3 = int(input('Digite o terceiro valor: '))
